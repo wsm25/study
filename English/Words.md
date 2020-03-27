@@ -31,8 +31,8 @@
 |      kick       |          **踢**           |
 |     letter      |           字母            |
 |      level      |        **水平线**         |
-|     manner      |        举止**[C]**        |
-|  math(ematic)s  |      数学**[sing.]**      |
+|     manner      |        举止 **[C]**        |
+|  math(ematic)s  |      数学 **[sing.]**      |
 |      mean       |        **平均的**         |
 |      meet       |          *满足*           |
 |      miss       |           思念            |
@@ -40,8 +40,8 @@
 |      minus      |            负             |
 |    **mood**     |      **心情，气氛**       |
 |      move       |           感动            |
-|      note       |       钞票** [英] **        |
-|      bill       |       钞票** [美] **        |
+|      note       |       钞票 **[英]**        |
+|      bill       |       钞票 **[美]**        |
 |      part       |        零件，角色         |
 |   **Pacific**   |          太平洋           |
 |  **platform**   |         **讲台**          |
