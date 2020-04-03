@@ -80,87 +80,48 @@
 |      wrong      |          *有病*           |
 
 ## 词组
-|           词组            |              中文               |
-| :-----------------------: | :-----------------------------: |
-|         above all         |     首先，尤其，最重要的是      |
-|         all over          |              到处               |
-|      on/at weekends       |             在周末              |
-|      **be keen on**       |            **喜爱**             |
-|      be made of/from      | 由……制成（看得出原材料/看不出） |
-|       be made up of       |            由……组成             |
-|    **be supposed to**     |        **应该，被期望**         |
-|       **big deal**        |     **大人物，了不起的事**      |
-|     change one's mind     |            改变主意             |
-|      come to an end       |              结束               |
-|     complain *about*      |              抱怨               |
-|          die of           |        **因（病）而死**         |
-|         die from          |       **因（意外）而死**        |
-|         dream of          |              想到               |
-|       enjoy oneself       |            过得愉快             |
-|          fill in          |              填写               |
-|   **from time to time**   |         **不时，有时**          |
-| **get into the habit of** |        **养成...的习惯**        |
-|       go for a swim       |              游泳               |
-|       **go in for**       |        参加，从事，酷爱         |
-|        go to sleep        |              入睡               |
-|          hand in          |              上交               |
-|     have pity on sb.      |              怜悯               |
-|          hear of          |              听说               |
-|         keep fit          |            保持健康             |
-|       **keep off**        |              阻挡               |
-|     **lay the table**     |          **摆好餐具**           |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
-|                           |                                 |
+|              词组               |              中文               |
+| :-----------------------------: | :-----------------------------: |
+|            above all            |     首先，尤其，最重要的是      |
+|            all over             |              到处               |
+|         on/at weekends          |             在周末              |
+|         **be keen on**          |            **喜爱**             |
+|         be made of/from         | 由……制成（看得出原材料/看不出） |
+|          be made up of          |            由……组成             |
+|       **be supposed to**        |        **应该，被期望**         |
+|          **big deal**           |     **大人物，了不起的事**      |
+|        change one's mind        |            改变主意             |
+|         come to an end          |              结束               |
+|        complain *about*         |              抱怨               |
+|             die of              |        **因（病）而死**         |
+|            die from             |       **因（意外）而死**        |
+|            dream of             |              想到               |
+|          enjoy oneself          |            过得愉快             |
+|             fill in             |              填写               |
+|      **from time to time**      |         **不时，有时**          |
+|    **get into the habit of**    |        **养成...的习惯**        |
+|          go for a swim          |              游泳               |
+|          **go in for**          |        参加，从事，酷爱         |
+|           go to sleep           |              入睡               |
+|             hand in             |              上交               |
+|        have pity on sb.         |              怜悯               |
+|             hear of             |              听说               |
+|            keep fit             |            保持健康             |
+|          **keep off**           |              阻挡               |
+|        **lay the table**        |          **摆好餐具**           |
+|           make fun of           |           那...开玩笑           |
+|       make up one's mind        |            下定决心             |
+|     **not and then/again**      |         **时而，偶尔**          |
+|         **on** average          |              平均               |
+|           out of date           |              过时               |
+|        **over and over**        |          再三，一次次           |
+|            pick out             |              挑出               |
+|         play a trick on         |              捉弄               |
+|         **see sb. off**         |            为...送行            |
+|            some day             |           将来有一天            |
+|         sooner or later         |              迟早               |
+|   take a message **for** sb.    |            捎个口信             |
+|          take hold of           |              抓住               |
+|            take out             |              取出               |
+| the week after **~~the~~** next |             下下周              |
 
